@@ -1,1 +1,1 @@
-# staticapp v0.1
+# staticapp v0.2
